@@ -1,10 +1,3 @@
-# OpenGL_SuperBible_5th_macOS
-Get a environment of opengl learning(tutorial from spweau_me)
-
-
-# How to
-
-```
 1.create macOS Cocoa Application
 
 2.Add <GLUT.framework> && <OpenGL.framework> in Target -> Build Phases -> Link Binary With Libraries
@@ -17,9 +10,6 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 6.Create a file named main.cpp
 
-7.Begin learning OpenGL SuperBible,enjoy!
+7.Write Cpp Code,enjoy!
 
-
-```
-
-Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),thanks!
+tutorial from [here](http://www.jianshu.com/p/002e1845bfa6)
