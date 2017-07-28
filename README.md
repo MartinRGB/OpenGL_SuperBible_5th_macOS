@@ -22,4 +22,4 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 ```
 
-tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),thanks!
+Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),thanks!
