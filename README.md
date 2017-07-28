@@ -1,5 +1,5 @@
 # OpenGL_SuperBible_5th_macOS
-rapid get a environment of opengl learning(tutorial from spweau_me)
+Get a environment of opengl learning(tutorial from spweau_me)
 
 
 # How to
@@ -19,6 +19,7 @@ rapid get a environment of opengl learning(tutorial from spweau_me)
 
 7.Write Cpp Code,enjoy!
 
-tutorial from [here](http://www.jianshu.com/p/002e1845bfa6)
 
 ```
+
+tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),thanks!
