@@ -2,24 +2,21 @@
 Get a environment of opengl learning(tutorial from spweau_me)
 
 
-# How to
+## How to
 
-```
-1.create macOS Cocoa Application
+1.Open XCode,create `macOS Cocoa Application`
 
-2.Add <GLUT.framework> && <OpenGL.framework> in Target -> Build Phases -> Link Binary With Libraries
+2.Add `GLUT.framework` && `OpenGL.framework` in `Target -> Build Phases -> Link Binary With Libraries`
 
-3.in Build Settings -> Header Search Path , add xxx/OpenGlShare/include
+3.in `Build Settings -> Header Search Path` , add `${thisprojectpath}/OpenGlShare/include` (I use `../OpenGlShare/include`) 
 
-4.Drag libGLTools.a into Frameworks
+4.Drag `libGLTools.a` into `Frameworks` Folder
 
-5.Delete AppDelegate.h | AppDelegate.m | main.m(in Supporting Files) | ViewController.h | ViewController.m
+5.Delete `AppDelegate.h` | `AppDelegate.m` | `main.m`(in Supporting Files) | `ViewController.h` | `ViewController.m`
 
 6.Create a file named main.cpp
 
 7.Begin learning OpenGL SuperBible,enjoy!
 
-
-```
 
 Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),thanks!
