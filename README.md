@@ -35,3 +35,4 @@ Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),tha
 
 - [ ] 阅读 [Improved Easing Functions](https://joshondesign.com/2013/03/01/improvedEasingEquations)
 
+- [ ] 研究 [Robert Penner's Easing Functions](http://robertpenner.com/easing/)
