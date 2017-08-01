@@ -29,6 +29,8 @@ Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),tha
 
 使用同一组顶点数据，在 `键盘控制` 和 `绘制` 回调函数中，先检测顶点的实时位置，然后检测和屏幕碰撞情况
 
+#### TODO
+
 - [ ] 加入 GL 版本 Easing Cpp Library
 
 - [ ] 阅读 [Improved Easing Functions](https://joshondesign.com/2013/03/01/improvedEasingEquations)
