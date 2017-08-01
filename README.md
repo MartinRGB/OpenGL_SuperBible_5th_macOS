@@ -33,9 +33,13 @@ Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),tha
 
 - [ ] 加入 GL 版本 Easing Cpp Library
 
-- [ ] 阅读 [Improved Easing Functions](https://joshondesign.com/2013/03/01/improvedEasingEquations)
+- [ ] 研究以下资料：
+[Improved Easing Functions](https://joshondesign.com/2013/03/01/improvedEasingEquations)
 
-- [ ] 研究 [Robert Penner's Easing Functions](http://robertpenner.com/easing/)
-           [Choreograph](https://github.com/sansumbrella/Choreograph)
-           [Claw](http://libclaw.sourceforge.net/tweeners.html)
-           [CppTweener](https://code.google.com/archive/p/cpptweener/)
+[Robert Penner's Easing Functions](http://robertpenner.com/easing/)
+
+[Choreograph](https://github.com/sansumbrella/Choreograph)
+           
+[Claw](http://libclaw.sourceforge.net/tweeners.html)
+           
+[CppTweener](https://code.google.com/archive/p/cpptweener/)
