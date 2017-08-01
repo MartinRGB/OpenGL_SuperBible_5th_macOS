@@ -34,6 +34,7 @@ Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),tha
 - [ ] 加入 GL 版本 Easing Cpp Library
 
 - [ ] 研究以下资料：
+
 [Improved Easing Functions](https://joshondesign.com/2013/03/01/improvedEasingEquations)
 
 [Robert Penner's Easing Functions](http://robertpenner.com/easing/)
