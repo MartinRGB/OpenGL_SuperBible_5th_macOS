@@ -18,8 +18,15 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 7.Begin learning OpenGL SuperBible,enjoy!
 
+两片关于 MacOS 下 OGL 环境配置文章：
 
-Original chinese tutorial from [here](http://www.jianshu.com/p/002e1845bfa6),thanks!
+[OpenGL 在Mac 上的配置（根据OpenGL超级宝典第五版）](http://www.jianshu.com/p/002e1845bfa6)
+
+这个解决了 GLTools 和 GLEW
+
+[OSX 10.11.3 下编译安装 GLFW-3.2](https://my.oschina.net/freeblues/blog/687630)
+
+这个解决了 GLFW
 
 ## What I learned:
 
