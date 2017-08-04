@@ -26,7 +26,7 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 [OSX 10.11.3 下编译安装 GLFW-3.2](https://my.oschina.net/freeblues/blog/687630)
 
-这个解决了 GLFW
+这个解决了 GLFW，但 Mac OS X 10.12后会有窗口创建问题，参考这个 [Issue](https://github.com/glfw/glfw/issues/908)
 
 ## What I learned:
 
