@@ -18,7 +18,7 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 7.Begin learning OpenGL SuperBible,enjoy!
 
-**三篇关于 MacOS 下 OGL 环境配置文章：**
+**四篇关于 MacOS 下 OGL 环境配置文章：**
 
 [OpenGL 在Mac 上的配置（根据OpenGL超级宝典第五版）](http://www.jianshu.com/p/002e1845bfa6)
 
@@ -31,6 +31,9 @@ Get a environment of opengl learning(tutorial from spweau_me)
 [在Xcode中配置GLEW+GLFW环境](http://blog.csdn.net/longzh_cn/article/details/55001345)
 
 Header | Lib | Framerwork
+
+[http://aiplay.studio/2016-01-08-mac-config-opengl/](http://aiplay.studio/2016-01-08-mac-config-opengl/)
+
 
 ## What I learned:
 
