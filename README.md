@@ -18,7 +18,7 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 7.Begin learning OpenGL SuperBible,enjoy!
 
-**两片关于 MacOS 下 OGL 环境配置文章：**
+**三篇关于 MacOS 下 OGL 环境配置文章：**
 
 [OpenGL 在Mac 上的配置（根据OpenGL超级宝典第五版）](http://www.jianshu.com/p/002e1845bfa6)
 
@@ -27,6 +27,10 @@ Get a environment of opengl learning(tutorial from spweau_me)
 [OSX 10.11.3 下编译安装 GLFW-3.2](https://my.oschina.net/freeblues/blog/687630)
 
 这个解决了 GLFW，但 Mac OS X 10.12后会有窗口创建问题，参考这个 [Issue](https://github.com/glfw/glfw/issues/908)
+
+[在Xcode中配置GLEW+GLFW环境](http://blog.csdn.net/longzh_cn/article/details/55001345)
+
+Header | Lib | Framerwork
 
 ## What I learned:
 
