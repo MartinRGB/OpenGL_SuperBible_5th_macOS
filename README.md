@@ -32,7 +32,7 @@ Get a environment of opengl learning(tutorial from spweau_me)
 
 Header | Lib | Framerwork
 
-[http://aiplay.studio/2016-01-08-mac-config-opengl/](http://aiplay.studio/2016-01-08-mac-config-opengl/)
+[在Mac系统上搭建OpenGL开发环境](http://aiplay.studio/2016-01-08-mac-config-opengl/)
 
 
 ## What I learned:
